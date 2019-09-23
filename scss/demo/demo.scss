@@ -1,0 +1,17 @@
+// You don't need this.
+// Only for demo layout.
+.livedemo {
+    padding-top: 80px;
+    nav .form-inline .btn {
+        margin-right: 6px;
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+    .footerdemo {
+        padding: 20px;
+        border-top: 1px solid #ddd;
+        margin-top: 30px;
+        color: #999999;
+    }
+}
